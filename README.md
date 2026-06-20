@@ -4,5 +4,4 @@
 
 怎么运行    streamlit run app.py
 
-!\[运行截图](screenshot.png)
-
+![运行截图](screenshot.png)
